@@ -37,7 +37,7 @@ Cassandra (Cassie for short) lives in your menu bar. Say her name, or double-tap
 <table>
   <tr>
     <td width="33%" valign="top"><b>🎙&nbsp; Voice, on your Mac</b><br>Say "Cassandra", or hold the right ⌘ key. Your speech is turned into text and spoken back on your Mac. Interrupt her any time.</td>
-    <td width="33%" valign="top"><b>🌌&nbsp; A second brain you can see</b><br>Every memory is a star. Related ones form constellations, and when she answers she flies to the memories she used.</td>
+    <td width="33%" valign="top"><b>🌌&nbsp; Your memory, drawn as a galaxy</b><br>Your second brain is your own notes and memories. The galaxy is a beautiful way to see them: each star is one memory, and related ones sit together.</td>
     <td width="33%" valign="top"><b>🪟&nbsp; The Cassie deck</b><br>A card at the top right shows your words live and her answer as she speaks, a few lines at a time like a teleprompter.</td>
   </tr>
   <tr>
@@ -56,9 +56,13 @@ Cassandra (Cassie for short) lives in your menu bar. Say her name, or double-tap
 
 <div align="center">
 
-**The galaxy**
+**Your memory, as a galaxy**
 
-<img src="docs/screenshots/galaxy.png" alt="Cassandra's dashboard: a galaxy of 200 linked memories on a deep space-blue sky" width="860">
+<img src="docs/screenshots/galaxy.png" alt="Cassandra's dashboard: 200 memories drawn as stars, with related ones linked together, on a deep space-blue sky" width="860">
+
+<sub>This is how you see your memory. Every star is one note or fact she keeps, and the lines join related ones.</sub>
+
+<br>
 
 <table>
   <tr>
@@ -69,7 +73,12 @@ Cassandra (Cassie for short) lives in your menu bar. Say her name, or double-tap
 
 **The Cassie deck**: listening, then speaking
 
-<img src="docs/screenshots/cassie-deck.png" alt="The Cassie deck while listening (left) and while speaking (right)" width="860">
+<table>
+  <tr>
+    <td valign="top" align="center"><img src="docs/screenshots/cassie-deck-listening.png" width="420" alt="The Cassie deck while listening: her orb, and your words as you speak"><br><b>Listening</b><br><sub>your words appear as you speak</sub></td>
+    <td valign="top" align="center"><img src="docs/screenshots/cassie-deck-speaking.png" width="420" alt="The Cassie deck while speaking: her orb, your question and her answer"><br><b>Speaking</b><br><sub>her answer is written as she says it</sub></td>
+  </tr>
+</table>
 
 **The iPhone hub**
 
@@ -88,9 +97,9 @@ Cassandra (Cassie for short) lives in your menu bar. Say her name, or double-tap
 
 ## What she can do
 
-### A second brain you can see
+### Your memory, drawn as a galaxy
 
-Every memory is a star. Related ones drift into constellations, and the more connected an idea is, the brighter it glows. Click a star to read it, see what it links to and edit it in place, or press `⌘K` to search. When she answers, she flies to the memories she used.
+What she knows about you is your memory: your notes, and the facts and preferences she learns, kept as plain files on your Mac. The galaxy is just a beautiful way to look at them. Every star is one memory, and related ones drift into constellations, with the most connected ideas glowing brightest. Click a star to read it, see what it links to and edit it in place, or press `⌘K` to search. When she answers, she flies to the memories she used.
 
 ### Voice, entirely on your Mac
 
@@ -152,7 +161,7 @@ An old iPhone on a shelf becomes Cassandra's always-on screen. It shows her orb,
 | Start talking | Say "Cassandra" or "Cassie", or double-tap and hold the right ⌘ key |
 | Stop her mid-sentence | Just talk over her |
 | End the conversation | Say "that's all" or "goodbye", or press `Esc` |
-| See the galaxy | Say "show me your dashboard" |
+| See your memory | Say "show me your dashboard" to open the galaxy of your notes |
 | Start or switch chats | "New chat", "switch to the one about …", "list my chats" |
 | Open or arrange windows | "Open Notes", "Chrome on the left and Terminal on the right" |
 | Set a routine | "Every weekday at 9, tell me my calendar" |
@@ -172,6 +181,9 @@ No. Voice and your memories stay on your Mac. Only the text of what you say to h
 
 **Can she do things without asking?**
 Only safe, everyday things such as opening an app. Anything that sends, deletes, buys, changes a file or runs a program asks first.
+
+**Is the galaxy the app?**
+No. The galaxy is a picture of your memory, the notes and facts she keeps about you. She is a voice assistant that lives in your menu bar, and the galaxy is the dashboard where you can see and edit what she remembers.
 
 **Do I need the iPhone?**
 No. The iPhone display is optional.
