@@ -15,7 +15,7 @@ and talks to you like she actually knows you. Everything she knows stays as file
 
 [Highlights](#highlights) &nbsp;·&nbsp; [A closer look](#a-closer-look) &nbsp;·&nbsp; [What she can do](#what-she-can-do) &nbsp;·&nbsp; [Privacy and safety](#privacy-and-safety) &nbsp;·&nbsp; [Using Cassandra](#using-cassandra) &nbsp;·&nbsp; [Questions](#questions)
 
-https://github.com/user-attachments/assets/REPLACE-WITH-YOUR-VIDEO-ID
+https://github.com/user-attachments/assets/3f59a60a-ef95-4c33-ae0f-806cdd263b74
 
 </div>
 
