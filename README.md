@@ -28,7 +28,7 @@ Cassandra (Cassie for short) lives in your menu bar. Say her name, or double-tap
 
 <div align="center">
 
-<img src="docs/screenshots/hero-orb.gif" alt="A galaxy of notes gathers into a glowing orb as Cassandra listens, ripples while she answers, then breaks apart into notes again" width="480">
+<img src="docs/screenshots/hero-orb.gif" alt="A galaxy of notes gathers into a glowing orb as Cassandra listens, ripples while she answers, then breaks apart into notes again" width="100%">
 
 </div>
 
@@ -75,8 +75,12 @@ Cassandra (Cassie for short) lives in your menu bar. Say her name, or double-tap
 
 <table>
   <tr>
-    <td valign="top" align="center"><img src="docs/screenshots/cassie-deck-listening.png" width="420" alt="The Cassie deck while listening: her orb, and your words as you speak"><br><b>Listening</b><br><sub>your words appear as you speak</sub></td>
-    <td valign="top" align="center"><img src="docs/screenshots/cassie-deck-speaking.png" width="420" alt="The Cassie deck while speaking: her orb, your question and her answer"><br><b>Speaking</b><br><sub>her answer is written as she says it</sub></td>
+    <td valign="middle" align="center"><img src="docs/screenshots/cassie-deck-listening.png" width="420" alt="The Cassie deck while listening: her orb, and your words as you speak"></td>
+    <td valign="middle" align="center"><img src="docs/screenshots/cassie-deck-speaking.png" width="420" alt="The Cassie deck while speaking: her orb, your question and her answer"></td>
+  </tr>
+  <tr>
+    <td valign="top" align="center"><b>Listening</b><br><sub>your words appear as you speak</sub></td>
+    <td valign="top" align="center"><b>Speaking</b><br><sub>her answer is written as she says it</sub></td>
   </tr>
 </table>
 
